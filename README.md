@@ -1,4 +1,4 @@
-###Sistema de Gestión de Pacientes para una Clínica
+###  Sistema de Gestión de Pacientes para una Clínica
 Comparación entre Solución 1 y Solución 2
 1. ¿Se separaron adecuadamente las responsabilidades (pacientes, citas, historiales)?
 
